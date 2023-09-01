@@ -4,7 +4,7 @@ metadata:
   name: "TODAY"
   description: "teste"
   annotations:
-    github.com/project-slug: veecode-squad/today test
+    github.com/project-slug: veecode-squad/today-test
     backstage.io/techdocs-ref: dir:.
     vault.io/secrets-path: devportal
     grafana/tag-selector: "grafanacloud"
